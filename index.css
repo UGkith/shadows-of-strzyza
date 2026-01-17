@@ -23,7 +23,7 @@ main {
 body {
     background:
         linear-gradient(rgba(255,255,255,0.6), rgba(255,255,255,0.6)),
-        url("img/tlo.jpg") no-repeat center top;
+        url("./Img/tlo.jpg") no-repeat center top;
     background-size: cover;
     background-attachment: fixed;
     color: #222;
@@ -303,3 +303,4 @@ body {
         height: auto;
     }
 }
+
